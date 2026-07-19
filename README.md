@@ -1,4 +1,4 @@
-# Review Manager & Tracker
+# Product Review Manager & Tracker
 
 Review Manager & Tracker is an AI-assisted productivity application designed to help users organize products, capture personal notes, generate polished review drafts from their own experiences, and track review completion.
 
