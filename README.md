@@ -61,3 +61,26 @@ The goal is to streamline the review-writing process while ensuring the user's a
 ## Status
 
 🚧 Currently under development.
+
+---
+
+## Find Me Online
+
+- 🌐 [Linnette Builds Portfolio](https://linnettebuilds.carrd.co)
+- 💼 [LinkedIn Profile & Resume](https://www.linkedin.com/in/linnetteg)
+- ✍️ [Linnette Builds Newsletter](https://www.linkedin.com/newsletters/linnette-builds-7484706504760262656/)
+- 📰 [Substack](https://linnettebuilds.substack.com)
+- 💻 [GitHub](https://github.com/linnetteg)
+
+---
+
+## 🚀 Current Projects
+
+- 📚 **[Data Nerd Library](https://github.com/linnetteg/data-nerd-library)**  
+  *Curated SQL, AI, Excel, Power BI, Python, GitHub, and data analytics learning resources.*
+
+- 🏥 **[LTC Medicaid Analytics](https://github.com/linnetteg/ltc-medicaid-analytics)**  
+  *SQL database project inspired by long-term care Medicaid workflows and healthcare analytics.*
+
+- ⭐ **[Review Manager Tracker](https://github.com/linnetteg/review-manager-tracker)**  
+  *AI-assisted review management application for organizing products, capturing notes, generating review drafts, and tracking review completion.*
