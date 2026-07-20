@@ -84,3 +84,7 @@ The goal is to streamline the review-writing process while ensuring the user's a
 
 - ⭐ **[Review Manager Tracker](https://github.com/linnetteg/review-manager-tracker)**  
   *AI-assisted review management application for organizing products, capturing notes, generating review drafts, and tracking review completion.*
+
+---
+
+>**Designed by a reviewer. Built for reviewers. Building software that solves real problems.**
